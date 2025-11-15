@@ -1,0 +1,960 @@
+-- TURN: 0, REMAINING TURNS: 300, BLUE: $30, RED: $30 --
+Red built a house tower at (12,2)
+Blue built a house tower at (2,4)
+
+-- TURN: 1, REMAINING TURNS: 299, BLUE: $20, RED: $20 --
+Red built a house tower at (6,3)
+Blue built a house tower at (7,1)
+
+-- TURN: 2, REMAINING TURNS: 298, BLUE: $8, RED: $8 --
+Red tried to buy a merc, but had no money
+Blue player doesn't have enough money to build house (costs 15, has 8)
+
+-- TURN: 3, REMAINING TURNS: 297, BLUE: $8, RED: $8 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 15, has 8)
+
+-- TURN: 4, REMAINING TURNS: 296, BLUE: $8, RED: $8 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 15, has 8)
+
+-- TURN: 5, REMAINING TURNS: 295, BLUE: $8, RED: $8 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 15, has 8)
+House R_H_Optimus produced $12 for the Red team. Total = $20
+House B_H_Megatron produced $12 for the Blue team. Total = $20
+
+-- TURN: 6, REMAINING TURNS: 294, BLUE: $20, RED: $20 --
+Red queued a mercenary in direction S
+Blue built a house tower at (2,2)
+Red player spawned mercenary Rodney at (5,4)
+House R_H_Wheeljack produced $12 for the Red team. Total = $22
+House B_H_Galvatron produced $12 for the Blue team. Total = $17
+
+-- TURN: 7, REMAINING TURNS: 293, BLUE: $17, RED: $22 --
+Blue tried to buy a merc, but had no money
+Red built a house tower at (7,4)
+Mercenary Rodney moved to (5,5)
+
+-- TURN: 8, REMAINING TURNS: 292, BLUE: $17, RED: $7 --
+Red player doesn't have enough money to build house (costs 18, has 7)
+Blue player doesn't have enough money to build house (costs 18, has 17)
+Mercenary Rodney moved to (6,5)
+
+-- TURN: 9, REMAINING TURNS: 291, BLUE: $17, RED: $7 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 18, has 7)
+Mercenary Rodney moved to (6,6)
+
+-- TURN: 10, REMAINING TURNS: 290, BLUE: $17, RED: $7 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 18, has 7)
+Mercenary Rodney moved to (7,6)
+Spawned demon Doyle at (7,8)
+Spawned demon Drake at (8,8)
+
+-- TURN: 11, REMAINING TURNS: 289, BLUE: $17, RED: $7 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 18, has 7)
+Mercenary Rodney moved to (8,6)
+Demon Doyle moved to (6,8)
+Demon Drake moved to (9,8)
+House R_H_Optimus produced $12 for the Red team. Total = $19
+House B_H_Megatron produced $12 for the Blue team. Total = $29
+House B_H_Starscream produced $12 for the Blue team. Total = $41
+
+-- TURN: 12, REMAINING TURNS: 288, BLUE: $41, RED: $19 --
+Red tried to buy a merc, but had no money
+Blue queued a mercenary in direction N
+Mercenary Rodney moved to (9,6)
+Demon Doyle moved to (5,8)
+Demon Drake moved to (10,8)
+Blue player spawned mercenary Ben at (10,2)
+House R_H_Wheeljack produced $12 for the Red team. Total = $31
+House B_H_Galvatron produced $12 for the Blue team. Total = $43
+House R_H_Cliffjumper produced $12 for the Red team. Total = $43
+
+-- TURN: 13, REMAINING TURNS: 287, BLUE: $43, RED: $43 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction E
+Mercenary Rodney moved to (9,5)
+Mercenary Ben moved to (10,1)
+Demon Doyle moved to (4,8)
+Demon Drake moved to (11,8)
+Red player spawned mercenary Robert at (5,4)
+Blue player spawned mercenary Boole at (11,3)
+
+-- TURN: 14, REMAINING TURNS: 286, BLUE: $33, RED: $33 --
+Red queued a mercenary in direction N
+Blue built a house tower at (6,2)
+Mercenary Rodney moved to (10,5)
+Mercenary Ben moved to (9,1)
+Mercenary Robert moved to (5,5)
+Mercenary Boole moved to (12,3)
+Demon Doyle moved to (3,8)
+Demon Drake moved to (12,8)
+Red player spawned mercenary Ryan at (5,2)
+
+-- TURN: 15, REMAINING TURNS: 285, BLUE: $15, RED: $23 --
+Blue tried to buy a merc, but had no money
+Red built a house tower at (13,3)
+Mercenary Ben moved to (9,0)
+Mercenary Robert moved to (6,5)
+Mercenary Boole moved to (12,4)
+Mercenary Ryan moved to (5,1)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Demon Doyle moved to (3,7)
+Demon Drake moved to (12,7)
+
+-- TURN: 16, REMAINING TURNS: 284, BLUE: $15, RED: $5 --
+Red tried to buy a merc, but had no money
+Blue tried to buy a merc, but had no money
+Mercenary Ben moved to (8,0)
+Mercenary Robert moved to (6,6)
+Mercenary Boole moved to (12,5)
+Mercenary Ryan moved to (6,1)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Demon Doyle moved to (3,6)
+Demon Drake moved to (12,6)
+
+-- TURN: 17, REMAINING TURNS: 283, BLUE: $15, RED: $5 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 22, has 5)
+Mercenary Ben moved to (7,0)
+Mercenary Robert moved to (7,6)
+Mercenary Ryan moved to (6,0)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Mercenary Boole attacked opponent Drake at (12,6). Target health went from 15 to 0
+Drake has suffered mortal wounds
+Demon Doyle moved to (3,5)
+House R_H_Optimus produced $12 for the Red team. Total = $17
+House B_H_Megatron produced $12 for the Blue team. Total = $27
+House B_H_Starscream produced $12 for the Blue team. Total = $39
+
+-- TURN: 18, REMAINING TURNS: 282, BLUE: $39, RED: $17 --
+Red tried to buy a merc, but had no money
+Blue built a house tower at (8,2)
+Mercenary Robert moved to (8,6)
+Mercenary Boole moved to (12,6)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Mercenary Ben attacked opponent Ryan at (6,0). Target health went from 20 to 5
+Mercenary Ryan attacked opponent Ben at (7,0). Target health went from 20 to 5
+Demon Doyle moved to (3,4)
+House R_H_Wheeljack produced $12 for the Red team. Total = $29
+House B_H_Galvatron produced $12 for the Blue team. Total = $29
+House R_H_Cliffjumper produced $12 for the Red team. Total = $41
+
+-- TURN: 19, REMAINING TURNS: 281, BLUE: $29, RED: $41 --
+Red built a house tower at (9,2)
+Blue built a house tower at (11,2)
+Mercenary Robert moved to (9,6)
+Mercenary Boole moved to (12,7)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Mercenary Ben attacked opponent Ryan at (6,0). Target health went from 5 to -10
+Mercenary Ryan attacked opponent Ben at (7,0). Target health went from 5 to -10
+Ben has suffered mortal wounds
+Ryan has suffered mortal wounds
+Demon Doyle moved to (3,3)
+House B_H_Soundwave produced $12 for the Blue team. Total = $14
+
+-- TURN: 20, REMAINING TURNS: 280, BLUE: $14, RED: $19 --
+Blue tried to buy a merc, but had no money
+Red player doesn't have enough money to build house (costs 27, has 19)
+Mercenary Robert moved to (9,5)
+Mercenary Boole moved to (12,8)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Demon Doyle attacked Red Player Base at (5,3)
+House R_H_Ironhide produced $12 for the Red team. Total = $31
+
+-- TURN: 21, REMAINING TURNS: 279, BLUE: $14, RED: $31 --
+Red queued a mercenary in direction S
+Blue player doesn't have enough money to build house (costs 33, has 14)
+Mercenary Boole moved to (11,8)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Demon Doyle attacked Red Player Base at (5,3)
+Red player spawned mercenary Raulston at (5,4)
+Spawned demon Donald at (7,8)
+Spawned demon Dorian at (8,8)
+
+-- TURN: 22, REMAINING TURNS: 278, BLUE: $14, RED: $21 --
+Red queued a mercenary in direction W
+Blue player doesn't have enough money to build house (costs 33, has 14)
+Mercenary Boole moved to (10,8)
+Mercenary Raulston moved to (5,5)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Demon Donald moved to (6,8)
+Demon Dorian moved to (9,8)
+Demon Doyle attacked Red Player Base at (5,3)
+Red player spawned mercenary Russell at (4,3)
+
+-- TURN: 23, REMAINING TURNS: 277, BLUE: $14, RED: $11 --
+Red tried to buy a merc, but had no money
+Blue player doesn't have enough money to build house (costs 33, has 14)
+Mercenary Raulston moved to (6,5)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Mercenary Boole attacked opponent Dorian at (9,8). Target health went from 20 to 5
+Mercenary Russell attacked opponent Doyle at (3,3). Target health went from 15 to 0
+Doyle has suffered mortal wounds
+Demon Donald moved to (5,8)
+Demon Dorian attacked opponent Boole at (10,8). Target health went from 20 to 7
+House R_H_Optimus produced $12 for the Red team. Total = $23
+House B_H_Megatron produced $12 for the Blue team. Total = $26
+House B_H_Starscream produced $12 for the Blue team. Total = $38
+House B_H_Shockwave produced $12 for the Blue team. Total = $50
+
+-- TURN: 24, REMAINING TURNS: 276, BLUE: $50, RED: $23 --
+Red queued a mercenary in direction N
+Blue queued a mercenary in direction E
+Mercenary Raulston moved to (6,6)
+Mercenary Russell moved to (3,3)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Mercenary Boole attacked opponent Dorian at (9,8). Target health went from 5 to -10
+Dorian has suffered mortal wounds
+Demon Donald moved to (4,8)
+Red player spawned mercenary Ronald at (5,2)
+Blue player spawned mercenary Billy at (11,3)
+House R_H_Wheeljack produced $12 for the Red team. Total = $25
+House B_H_Galvatron produced $12 for the Blue team. Total = $52
+House R_H_Cliffjumper produced $12 for the Red team. Total = $37
+House R_H_Mirage produced $12 for the Red team. Total = $49
+House B_H_Reflector produced $12 for the Blue team. Total = $64
+
+-- TURN: 25, REMAINING TURNS: 275, BLUE: $64, RED: $49 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction S
+Blue built a crossbow tower at (7,3)
+Mercenary Boole moved to (9,8)
+Mercenary Raulston moved to (7,6)
+Mercenary Russell moved to (3,4)
+Mercenary Ronald moved to (5,1)
+Mercenary Billy moved to (12,3)
+Mercenary Rodney attacked Blue Player Base at (10,3)
+Demon Donald moved to (3,8)
+Red player spawned mercenary Roger at (5,4)
+Blue player spawned mercenary Benson at (10,4)
+House B_H_Soundwave produced $12 for the Blue team. Total = $58
+
+-- TURN: 26, REMAINING TURNS: 274, BLUE: $58, RED: $39 --
+Red queued a mercenary in direction W
+Blue queued a mercenary in direction E
+Blue built a cannon tower at (9,3)
+Mercenary Boole moved to (8,8)
+Mercenary Raulston moved to (8,6)
+Mercenary Russell moved to (3,5)
+Mercenary Ronald moved to (6,1)
+Mercenary Billy moved to (12,4)
+Mercenary Roger moved to (5,5)
+Mercenary Rodney attacked opponent Benson at (10,4). Target health went from 20 to 5
+Mercenary Benson attacked opponent Rodney at (10,5). Target health went from 20 to 5
+Demon Donald moved to (3,7)
+Red player spawned mercenary Roland at (4,3)
+Blue player spawned mercenary Bradley at (11,3)
+House R_H_Ironhide produced $12 for the Red team. Total = $41
+
+-- TURN: 27, REMAINING TURNS: 273, BLUE: $38, RED: $41 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction N
+Blue built a cannon tower at (6,4)
+Mercenary Boole moved to (7,8)
+Mercenary Raulston moved to (9,6)
+Mercenary Russell moved to (3,6)
+Mercenary Ronald moved to (6,0)
+Mercenary Billy moved to (12,5)
+Mercenary Roger moved to (6,5)
+Mercenary Roland moved to (3,3)
+Mercenary Bradley moved to (12,3)
+Mercenary Rodney attacked opponent Benson at (10,4). Target health went from 5 to -10
+Mercenary Benson attacked opponent Rodney at (10,5). Target health went from 5 to -10
+Rodney has suffered mortal wounds
+Benson has suffered mortal wounds
+Demon Donald attacked opponent Russell at (3,6). Target health went from 20 to 7
+Red player spawned mercenary Ralph at (5,4)
+Blue player spawned mercenary Brayden at (10,2)
+
+-- TURN: 28, REMAINING TURNS: 272, BLUE: $16, RED: $31 --
+Red queued a mercenary in direction N
+Blue tried to buy a merc, but had no money
+Blue built a cannon tower at (8,4)
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Robert moved to (10,5)
+Mercenary Boole moved to (6,8)
+Mercenary Raulston moved to (9,5)
+Mercenary Ronald moved to (7,0)
+Mercenary Billy moved to (12,6)
+Mercenary Roger moved to (6,6)
+Mercenary Roland moved to (3,4)
+Mercenary Bradley moved to (12,4)
+Mercenary Ralph moved to (5,5)
+Mercenary Brayden moved to (10,1)
+Mercenary Russell attacked opponent Donald at (3,7). Target health went from 20 to 5
+Demon Donald attacked opponent Russell at (3,6). Target health went from 7 to -6
+Russell has suffered mortal wounds
+Red player spawned mercenary Raymond at (5,2)
+
+-- TURN: 29, REMAINING TURNS: 271, BLUE: $1, RED: $16 --
+Red tried to buy a merc, but had no money
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build cannon (costs 18, has 1)
+Mercenary Boole moved to (5,8)
+Mercenary Ronald moved to (8,0)
+Mercenary Billy moved to (12,7)
+Mercenary Roger moved to (7,6)
+Mercenary Roland moved to (3,5)
+Mercenary Bradley moved to (12,5)
+Mercenary Ralph moved to (6,5)
+Mercenary Brayden moved to (9,1)
+Mercenary Raymond moved to (5,1)
+Mercenary Robert attacked Blue Player Base at (10,3)
+Demon Donald moved to (3,6)
+House R_H_Optimus produced $12 for the Red team. Total = $28
+House B_H_Megatron produced $12 for the Blue team. Total = $13
+House B_H_Starscream produced $12 for the Blue team. Total = $25
+House B_H_Shockwave produced $12 for the Blue team. Total = $37
+Tower B_CR_Hook hit Robert for 4 damage
+
+-- TURN: 30, REMAINING TURNS: 270, BLUE: $37, RED: $28 --
+Red queued a mercenary in direction W
+Blue queued a mercenary in direction S
+Blue built a cannon tower at (11,4)
+Mercenary Boole moved to (4,8)
+Mercenary Billy moved to (12,8)
+Mercenary Roger moved to (8,6)
+Mercenary Bradley moved to (12,6)
+Mercenary Ralph moved to (6,6)
+Mercenary Raymond moved to (6,1)
+Mercenary Robert attacked Blue Player Base at (10,3)
+Mercenary Ronald attacked opponent Brayden at (9,1). Target health went from 20 to 5
+Mercenary Roland attacked opponent Donald at (3,6). Target health went from 5 to -10
+Mercenary Brayden attacked opponent Ronald at (8,0). Target health went from 20 to 5
+Donald has suffered mortal wounds
+Red player spawned mercenary Ricky at (4,3)
+Blue player spawned mercenary Brent at (10,4)
+House R_H_Wheeljack produced $12 for the Red team. Total = $30
+House B_H_Galvatron produced $12 for the Blue team. Total = $21
+House R_H_Cliffjumper produced $12 for the Red team. Total = $42
+House R_H_Mirage produced $12 for the Red team. Total = $54
+House B_H_Reflector produced $12 for the Blue team. Total = $33
+
+-- TURN: 31, REMAINING TURNS: 269, BLUE: $33, RED: $54 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction N
+Blue built a crossbow tower at (7,5)
+Red provoked the demons!
+Blue provoked the demons!
+Both teams provoked the demons at the same time. All demons are wiped from the map!!!
+Mercenary Boole moved to (3,8)
+Mercenary Billy moved to (11,8)
+Mercenary Roger moved to (9,6)
+Mercenary Roland moved to (3,6)
+Mercenary Bradley moved to (12,7)
+Mercenary Ralph moved to (7,6)
+Mercenary Raymond moved to (6,0)
+Mercenary Ricky moved to (3,3)
+Mercenary Robert attacked opponent Brent at (10,4). Target health went from 20 to 5
+Mercenary Ronald attacked opponent Brayden at (9,1). Target health went from 5 to -10
+Mercenary Brayden attacked opponent Ronald at (8,0). Target health went from 5 to -10
+Mercenary Brent attacked opponent Robert at (10,5). Target health went from 16 to 1
+Ronald has suffered mortal wounds
+Brayden has suffered mortal wounds
+Red player spawned mercenary Reuben at (5,4)
+Blue player spawned mercenary Brett at (10,2)
+House B_H_Soundwave produced $12 for the Blue team. Total = $20
+Hit an enemy merc that was behind me, with the cannon AOE
+Tower B_CA_Scrapper hit Robert for 5 damage
+Robert has suffered mortal wounds
+
+-- TURN: 32, REMAINING TURNS: 268, BLUE: $20, RED: $39 --
+Red queued a mercenary in direction N
+Blue queued a mercenary in direction S
+Blue player doesn't have enough money to build cannon (costs 22, has 10)
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Billy moved to (10,8)
+Mercenary Bradley moved to (12,8)
+Mercenary Ralph moved to (8,6)
+Mercenary Raymond moved to (7,0)
+Mercenary Ricky moved to (3,4)
+Mercenary Reuben moved to (5,5)
+Mercenary Brett moved to (10,1)
+Mercenary Boole attacked opponent Roland at (3,6). Target health went from 20 to 5
+Mercenary Raulston attacked opponent Brent at (10,4). Target health went from 5 to -10
+Mercenary Roland attacked opponent Boole at (3,8). Target health went from 7 to -8
+Mercenary Brent attacked opponent Raulston at (9,5). Target health went from 15 to 0
+Boole has suffered mortal wounds
+Raulston has suffered mortal wounds
+Brent has suffered mortal wounds
+Red player spawned mercenary Rafael at (5,2)
+Blue player spawned mercenary Brody at (10,4)
+Spawned demon Dylan at (7,8)
+Spawned demon Douglas at (8,8)
+House R_H_Ironhide produced $12 for the Red team. Total = $36
+Hit an enemy merc that was ahead of me, with the cannon AOE
+Tower B_CA_Bonecrusher hit Ralph for 5 damage
+
+-- TURN: 33, REMAINING TURNS: 267, BLUE: $10, RED: $36 --
+Red queued a mercenary in direction S
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build cannon (costs 22, has 10)
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Billy moved to (9,8)
+Mercenary Roger moved to (9,5)
+Mercenary Roland moved to (3,7)
+Mercenary Bradley moved to (11,8)
+Mercenary Ralph moved to (9,6)
+Mercenary Raymond moved to (8,0)
+Mercenary Ricky moved to (3,5)
+Mercenary Reuben moved to (6,5)
+Mercenary Brett moved to (9,1)
+Mercenary Rafael moved to (5,1)
+Mercenary Brody moved to (10,5)
+Demon Dylan moved to (6,8)
+Demon Douglas attacked opponent Billy at (9,8). Target health went from 20 to 4
+Red player spawned mercenary Randy at (5,4)
+Hit an enemy merc that was behind me, with the cannon AOE
+Tower B_CA_Long Haul hit Roger for 5 damage
+
+-- TURN: 34, REMAINING TURNS: 266, BLUE: $10, RED: $21 --
+Red queued a mercenary in direction W
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build cannon (costs 22, has 10)
+Mercenary Roland moved to (3,8)
+Mercenary Bradley moved to (10,8)
+Mercenary Ricky moved to (3,6)
+Mercenary Reuben moved to (6,6)
+Mercenary Rafael moved to (6,1)
+Mercenary Randy moved to (5,5)
+Mercenary Billy attacked opponent Douglas at (8,8). Target health went from 25 to 10
+Mercenary Roger attacked opponent Brody at (10,5). Target health went from 20 to 5
+Mercenary Raymond attacked opponent Brett at (9,1). Target health went from 20 to 5
+Mercenary Brett attacked opponent Raymond at (8,0). Target health went from 20 to 5
+Mercenary Brody attacked opponent Roger at (9,5). Target health went from 10 to -5
+Roger has suffered mortal wounds
+Demon Dylan moved to (5,8)
+Demon Douglas attacked opponent Billy at (9,8). Target health went from 4 to -12
+Billy has suffered mortal wounds
+Red player spawned mercenary Rocco at (4,3)
+Tower B_CR_Hook hit Ralph for 4 damage
+
+-- TURN: 35, REMAINING TURNS: 265, BLUE: $10, RED: $11 --
+Red tried to buy a merc, but had no money
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build minigun (costs 20, has 10)
+Mercenary Roland moved to (4,8)
+Mercenary Bradley moved to (9,8)
+Mercenary Ricky moved to (3,7)
+Mercenary Reuben moved to (7,6)
+Mercenary Rafael moved to (6,0)
+Mercenary Randy moved to (6,5)
+Mercenary Rocco moved to (3,3)
+Mercenary Ralph attacked opponent Brody at (10,5). Target health went from 5 to -10
+Mercenary Raymond attacked opponent Brett at (9,1). Target health went from 5 to -10
+Mercenary Brett attacked opponent Raymond at (8,0). Target health went from 5 to -10
+Mercenary Brody attacked opponent Ralph at (9,6). Target health went from 6 to -9
+Ralph has suffered mortal wounds
+Raymond has suffered mortal wounds
+Brett has suffered mortal wounds
+Brody has suffered mortal wounds
+Demon Dylan attacked opponent Roland at (4,8). Target health went from 5 to -11
+Demon Douglas attacked opponent Bradley at (9,8). Target health went from 20 to 4
+Roland has suffered mortal wounds
+House R_H_Optimus produced $12 for the Red team. Total = $23
+House B_H_Megatron produced $12 for the Blue team. Total = $22
+House B_H_Starscream produced $12 for the Blue team. Total = $34
+House B_H_Shockwave produced $12 for the Blue team. Total = $46
+Tower B_CR_Devastator hit Douglas for 4 damage
+
+-- TURN: 36, REMAINING TURNS: 264, BLUE: $46, RED: $23 --
+Red queued a mercenary in direction N
+Blue queued a mercenary in direction N
+Blue built a minigun tower at (7,7)
+Mercenary Ricky moved to (3,8)
+Mercenary Reuben moved to (8,6)
+Mercenary Rafael moved to (7,0)
+Mercenary Randy moved to (6,6)
+Mercenary Rocco moved to (3,4)
+Mercenary Bradley attacked opponent Douglas at (8,8). Target health went from 6 to -9
+Douglas has suffered mortal wounds
+Demon Dylan moved to (4,8)
+Red player spawned mercenary Raul at (5,2)
+Blue player spawned mercenary Brock at (10,2)
+House R_H_Wheeljack produced $12 for the Red team. Total = $25
+House B_H_Galvatron produced $12 for the Blue team. Total = $28
+House R_H_Cliffjumper produced $12 for the Red team. Total = $37
+House R_H_Mirage produced $12 for the Red team. Total = $49
+House B_H_Reflector produced $12 for the Blue team. Total = $40
+Tower B_M_Astrotrain hit Randy for 2 damage
+Tower B_M_Astrotrain hit Reuben for 2 damage
+
+-- TURN: 37, REMAINING TURNS: 263, BLUE: $40, RED: $49 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction N
+Blue built a cannon tower at (0,8)
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Bradley moved to (8,8)
+Mercenary Reuben moved to (9,6)
+Mercenary Rafael moved to (8,0)
+Mercenary Randy moved to (7,6)
+Mercenary Rocco moved to (3,5)
+Mercenary Raul moved to (5,1)
+Mercenary Brock moved to (10,1)
+Mercenary Ricky attacked opponent Dylan at (4,8). Target health went from 25 to 10
+Demon Dylan attacked opponent Ricky at (3,8). Target health went from 20 to 4
+Red player spawned mercenary Rory at (5,4)
+Blue player spawned mercenary Bruce at (10,2)
+House B_H_Soundwave produced $12 for the Blue team. Total = $20
+Tower B_CA_Mixmaster hit Reuben for 5 damage
+Tower B_M_Astrotrain hit Randy for 2 damage
+Tower B_M_Astrotrain hit Reuben for 2 damage
+
+-- TURN: 38, REMAINING TURNS: 262, BLUE: $20, RED: $34 --
+Red queued a mercenary in direction W
+Blue queued a mercenary in direction S
+Blue player doesn't have enough money to build cannon (costs 27, has 10)
+Blue provoked the demons!
+Only blue provoked the demons this turn. Spawning more demons!
+Mercenary Bradley moved to (7,8)
+Mercenary Reuben moved to (9,5)
+Mercenary Rafael moved to (9,0)
+Mercenary Randy moved to (8,6)
+Mercenary Rocco moved to (3,6)
+Mercenary Raul moved to (6,1)
+Mercenary Brock moved to (9,1)
+Mercenary Rory moved to (5,5)
+Mercenary Bruce moved to (10,1)
+Mercenary Ricky attacked opponent Dylan at (4,8). Target health went from 10 to -5
+Dylan has suffered mortal wounds
+Red player spawned mercenary Rex at (4,3)
+Blue player spawned mercenary Barry at (10,4)
+Waiting to spawn demon at (7,8)
+Spawned demon Dean at (8,8)
+House R_H_Ironhide produced $12 for the Red team. Total = $36
+Tower B_CA_Scrapper hit Reuben for 5 damage
+Tower B_CA_Bonecrusher hit Randy for 5 damage
+Tower B_M_Astrotrain hit Rory for 2 damage
+Tower B_M_Astrotrain hit Randy for 2 damage
+Tower B_M_Astrotrain hit Dean for 2 damage
+Tower B_M_Astrotrain hit Reuben for 2 damage
+
+-- TURN: 39, REMAINING TURNS: 261, BLUE: $5, RED: $36 --
+Red queued a mercenary in direction S
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build minigun (costs 25, has 5)
+Mercenary Bradley moved to (6,8)
+Mercenary Ricky moved to (4,8)
+Mercenary Randy moved to (9,6)
+Mercenary Rocco moved to (3,7)
+Mercenary Raul moved to (6,0)
+Mercenary Rory moved to (6,5)
+Mercenary Rex moved to (3,3)
+Mercenary Reuben attacked opponent Barry at (10,4). Target health went from 20 to 5
+Mercenary Rafael attacked opponent Brock at (9,1). Target health went from 20 to 5
+Mercenary Brock attacked opponent Rafael at (9,0). Target health went from 20 to 5
+Mercenary Barry attacked opponent Reuben at (9,5). Target health went from 4 to -11
+Reuben has suffered mortal wounds
+Demon Dean moved to (9,8)
+Red player spawned mercenary Ruben at (5,4)
+Spawned demon Dennis at (7,8)
+Tower B_CR_Hook hit Randy for 4 damage
+Tower B_CA_Long Haul hit Randy for 5 damage
+Tower B_M_Astrotrain hit Rory for 2 damage
+Tower B_M_Astrotrain hit Randy for 2 damage
+Tower B_M_Astrotrain hit Dean for 2 damage
+Randy has suffered mortal wounds
+
+-- TURN: 40, REMAINING TURNS: 260, BLUE: $5, RED: $26 --
+Red queued a mercenary in direction N
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build cannon (costs 27, has 5)
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Rocco moved to (3,8)
+Mercenary Raul moved to (7,0)
+Mercenary Rory moved to (6,6)
+Mercenary Rex moved to (3,4)
+Mercenary Barry moved to (10,5)
+Mercenary Ruben moved to (5,5)
+Mercenary Bradley attacked opponent Ricky at (4,8). Target health went from 4 to -11
+Mercenary Ricky attacked opponent Bradley at (6,8). Target health went from 4 to -11
+Mercenary Rafael attacked opponent Brock at (9,1). Target health went from 5 to -10
+Mercenary Brock attacked opponent Rafael at (9,0). Target health went from 5 to -10
+Bradley has suffered mortal wounds
+Ricky has suffered mortal wounds
+Rafael has suffered mortal wounds
+Brock has suffered mortal wounds
+Demon Dean moved to (10,8)
+Demon Dennis moved to (6,8)
+Red player spawned mercenary Rhys at (5,2)
+Tower B_CR_Devastator hit Dean for 4 damage
+Tower B_M_Astrotrain hit Ruben for 2 damage
+Tower B_M_Astrotrain hit Rory for 2 damage
+
+-- TURN: 41, REMAINING TURNS: 259, BLUE: $5, RED: $11 --
+Red tried to buy a merc, but had no money
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build minigun (costs 25, has 5)
+Mercenary Rocco moved to (4,8)
+Mercenary Raul moved to (8,0)
+Mercenary Rory moved to (7,6)
+Mercenary Bruce moved to (9,1)
+Mercenary Rex moved to (3,5)
+Mercenary Barry moved to (9,5)
+Mercenary Ruben moved to (6,5)
+Mercenary Rhys moved to (5,1)
+Demon Dean moved to (11,8)
+Demon Dennis moved to (5,8)
+House R_H_Optimus produced $12 for the Red team. Total = $23
+House B_H_Megatron produced $12 for the Blue team. Total = $17
+House B_H_Starscream produced $12 for the Blue team. Total = $29
+House B_H_Shockwave produced $12 for the Blue team. Total = $41
+Tower B_M_Astrotrain hit Ruben for 2 damage
+Tower B_M_Astrotrain hit Rory for 2 damage
+
+-- TURN: 42, REMAINING TURNS: 258, BLUE: $41, RED: $23 --
+Red queued a mercenary in direction W
+Blue queued a mercenary in direction N
+Blue built a minigun tower at (3,2)
+Mercenary Rory moved to (8,6)
+Mercenary Rex moved to (3,6)
+Mercenary Barry moved to (9,6)
+Mercenary Ruben moved to (6,6)
+Mercenary Rhys moved to (6,1)
+Mercenary Rocco attacked opponent Dennis at (5,8). Target health went from 30 to 15
+Mercenary Raul attacked opponent Bruce at (9,1). Target health went from 20 to 5
+Mercenary Bruce attacked opponent Raul at (8,0). Target health went from 20 to 5
+Demon Dean moved to (12,8)
+Demon Dennis attacked opponent Rocco at (4,8). Target health went from 20 to 1
+Red player spawned mercenary Ronan at (4,3)
+Blue player spawned mercenary Bobby at (10,2)
+House R_H_Wheeljack produced $12 for the Red team. Total = $25
+House B_H_Galvatron produced $12 for the Blue team. Total = $18
+House R_H_Cliffjumper produced $12 for the Red team. Total = $37
+House R_H_Mirage produced $12 for the Red team. Total = $49
+House B_H_Reflector produced $12 for the Blue team. Total = $30
+Tower B_M_Astrotrain hit Ruben for 2 damage
+Tower B_M_Astrotrain hit Rory for 2 damage
+Tower B_M_Breakdown hit Ronan for 2 damage
+
+-- TURN: 43, REMAINING TURNS: 257, BLUE: $30, RED: $49 --
+Red queued a mercenary in direction N
+Blue queued a mercenary in direction S
+Blue player doesn't have enough money to build cannon (costs 27, has 20)
+Mercenary Rex moved to (3,7)
+Mercenary Ruben moved to (7,6)
+Mercenary Rhys moved to (6,0)
+Mercenary Ronan moved to (3,3)
+Mercenary Bobby moved to (10,1)
+Mercenary Rocco attacked opponent Dennis at (5,8). Target health went from 15 to 0
+Mercenary Raul attacked opponent Bruce at (9,1). Target health went from 5 to -10
+Mercenary Rory attacked opponent Barry at (9,6). Target health went from 5 to -10
+Mercenary Bruce attacked opponent Raul at (8,0). Target health went from 5 to -10
+Mercenary Barry attacked opponent Rory at (8,6). Target health went from 10 to -5
+Raul has suffered mortal wounds
+Rory has suffered mortal wounds
+Bruce has suffered mortal wounds
+Barry has suffered mortal wounds
+Dennis has suffered mortal wounds
+Demon Dean moved to (12,7)
+Red player spawned mercenary Ross at (5,2)
+Blue player spawned mercenary Bryan at (10,4)
+Spawned demon Darren at (7,8)
+Spawned demon Damon at (8,8)
+House B_H_Soundwave produced $12 for the Blue team. Total = $32
+Tower B_M_Astrotrain hit Ruben for 2 damage
+Tower B_M_Astrotrain hit Damon for 2 damage
+Tower B_M_Breakdown hit Ronan for 2 damage
+Tower B_M_Breakdown hit Ross for 2 damage
+
+-- TURN: 44, REMAINING TURNS: 256, BLUE: $32, RED: $39 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction E
+Blue player doesn't have enough money to build minigun (costs 31, has 22)
+Mercenary Rocco moved to (5,8)
+Mercenary Rex moved to (3,8)
+Mercenary Ruben moved to (8,6)
+Mercenary Rhys moved to (7,0)
+Mercenary Ronan moved to (3,4)
+Mercenary Bobby moved to (9,1)
+Mercenary Ross moved to (5,1)
+Mercenary Bryan moved to (10,5)
+Demon Dean moved to (12,6)
+Demon Darren moved to (6,8)
+Demon Damon moved to (9,8)
+Red player spawned mercenary Roman at (5,4)
+Blue player spawned mercenary Brady at (11,3)
+House R_H_Ironhide produced $12 for the Red team. Total = $41
+Tower B_CR_Hook hit Ruben for 4 damage
+Tower B_CA_Bonecrusher hit Ruben for 5 damage
+Tower B_CA_Mixmaster hit Dean for 5 damage
+Tower B_M_Astrotrain hit Rocco for 2 damage
+Tower B_M_Astrotrain hit Ruben for 2 damage
+Tower B_M_Astrotrain hit Damon for 2 damage
+Tower B_M_Breakdown hit Ronan for 2 damage
+Tower B_M_Breakdown hit Ross for 2 damage
+Tower B_M_Breakdown hit Roman for 2 damage
+Rocco has suffered mortal wounds
+
+-- TURN: 45, REMAINING TURNS: 255, BLUE: $22, RED: $41 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction E
+Blue player doesn't have enough money to build cannon (costs 27, has 12)
+Mercenary Rex moved to (4,8)
+Mercenary Ruben moved to (9,6)
+Mercenary Rhys moved to (8,0)
+Mercenary Ronan moved to (3,5)
+Mercenary Bobby moved to (9,0)
+Mercenary Ross moved to (6,1)
+Mercenary Bryan moved to (9,5)
+Mercenary Roman moved to (5,5)
+Mercenary Brady moved to (12,3)
+Demon Dean moved to (12,5)
+Demon Darren moved to (5,8)
+Demon Damon moved to (10,8)
+Red player spawned mercenary Remy at (5,4)
+Blue player spawned mercenary Bill at (11,3)
+Tower B_CA_Long Haul hit Ruben for 5 damage
+Tower B_CR_Devastator hit Damon for 4 damage
+Tower B_M_Astrotrain hit Roman for 2 damage
+Tower B_M_Astrotrain hit Ruben for 2 damage
+Tower B_M_Breakdown hit Remy for 2 damage
+Ruben has suffered mortal wounds
+
+-- TURN: 46, REMAINING TURNS: 254, BLUE: $12, RED: $31 --
+Red queued a mercenary in direction W
+Blue tried to buy a merc, but had no money
+Blue player doesn't have enough money to build cannon (costs 27, has 12)
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Ronan moved to (3,6)
+Mercenary Ross moved to (6,0)
+Mercenary Bryan moved to (9,6)
+Mercenary Roman moved to (6,5)
+Mercenary Brady moved to (12,4)
+Mercenary Remy moved to (5,5)
+Mercenary Bill moved to (12,3)
+Mercenary Rex attacked opponent Darren at (5,8). Target health went from 35 to 20
+Mercenary Rhys attacked opponent Bobby at (9,0). Target health went from 20 to 5
+Mercenary Bobby attacked opponent Rhys at (8,0). Target health went from 20 to 5
+Demon Damon moved to (11,8)
+Demon Dean attacked opponent Brady at (12,4). Target health went from 20 to 1
+Demon Darren attacked opponent Rex at (4,8). Target health went from 20 to -2
+Rex has suffered mortal wounds
+Red player spawned mercenary Reed at (4,3)
+Tower B_M_Astrotrain hit Remy for 2 damage
+Tower B_M_Astrotrain hit Roman for 2 damage
+Tower B_M_Breakdown hit Reed for 2 damage
+
+-- TURN: 47, REMAINING TURNS: 253, BLUE: $12, RED: $16 --
+Red tried to buy a merc, but had no money
+Blue tried to buy a merc, but had no money
+Blue built a crossbow tower at (2,3)
+Mercenary Ronan moved to (3,7)
+Mercenary Ross moved to (7,0)
+Mercenary Bryan moved to (8,6)
+Mercenary Roman moved to (6,6)
+Mercenary Remy moved to (6,5)
+Mercenary Reed moved to (3,3)
+Mercenary Rhys attacked opponent Bobby at (9,0). Target health went from 5 to -10
+Mercenary Bobby attacked opponent Rhys at (8,0). Target health went from 5 to -10
+Mercenary Brady attacked opponent Dean at (12,5). Target health went from 17 to 2
+Rhys has suffered mortal wounds
+Bobby has suffered mortal wounds
+Demon Darren moved to (4,8)
+Demon Damon moved to (12,8)
+Demon Dean attacked opponent Brady at (12,4). Target health went from 1 to -18
+Brady has suffered mortal wounds
+House R_H_Optimus produced $12 for the Red team. Total = $28
+House B_H_Megatron produced $12 for the Blue team. Total = $12
+House B_H_Starscream produced $12 for the Blue team. Total = $24
+House B_H_Shockwave produced $12 for the Blue team. Total = $36
+Tower B_M_Astrotrain hit Remy for 2 damage
+Tower B_M_Astrotrain hit Roman for 2 damage
+Tower B_M_Breakdown hit Reed for 2 damage
+
+-- TURN: 48, REMAINING TURNS: 252, BLUE: $36, RED: $28 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction N
+Mercenary Ronan moved to (3,8)
+Mercenary Ross moved to (8,0)
+Mercenary Bill moved to (12,4)
+Mercenary Reed moved to (3,4)
+Mercenary Bryan attacked opponent Roman at (6,6). Target health went from 12 to -3
+Mercenary Roman attacked opponent Bryan at (8,6). Target health went from 20 to 5
+Roman has suffered mortal wounds
+Demon Damon moved to (12,7)
+Demon Dean attacked opponent Bill at (12,4). Target health went from 20 to 1
+Demon Darren attacked opponent Ronan at (3,8). Target health went from 14 to -8
+Ronan has suffered mortal wounds
+Red player spawned mercenary Ramsey at (5,4)
+Blue player spawned mercenary Bob at (10,2)
+House R_H_Wheeljack produced $12 for the Red team. Total = $30
+House B_H_Galvatron produced $12 for the Blue team. Total = $38
+House R_H_Cliffjumper produced $12 for the Red team. Total = $42
+House R_H_Mirage produced $12 for the Red team. Total = $54
+House B_H_Reflector produced $12 for the Blue team. Total = $50
+Tower B_M_Astrotrain hit Remy for 2 damage
+Tower B_M_Breakdown hit Reed for 2 damage
+Tower B_M_Breakdown hit Ramsey for 2 damage
+
+-- TURN: 49, REMAINING TURNS: 251, BLUE: $50, RED: $54 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction N
+Mercenary Ross moved to (9,0)
+Mercenary Bryan moved to (7,6)
+Mercenary Remy moved to (6,6)
+Mercenary Reed moved to (3,5)
+Mercenary Ramsey moved to (5,5)
+Mercenary Bob moved to (10,1)
+Mercenary Bill attacked opponent Dean at (12,5). Target health went from 2 to -13
+Dean has suffered mortal wounds
+Demon Darren moved to (3,8)
+Demon Damon moved to (12,6)
+Red player spawned mercenary Rudy at (5,4)
+Blue player spawned mercenary Blaine at (10,2)
+House B_H_Soundwave produced $12 for the Blue team. Total = $52
+Tower B_CR_Hook hit Ross for 4 damage
+Tower B_CA_Scrapper hit Ross for 5 damage
+Tower B_M_Astrotrain hit Ramsey for 2 damage
+Tower B_M_Astrotrain hit Remy for 2 damage
+Tower B_M_Breakdown hit Rudy for 2 damage
+
+-- TURN: 50, REMAINING TURNS: 250, BLUE: $52, RED: $44 --
+Red queued a mercenary in direction W
+Blue destroyed a tower at (0,8) and was refunded $10
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Bill moved to (12,5)
+Mercenary Reed moved to (3,6)
+Mercenary Ramsey moved to (6,5)
+Mercenary Rudy moved to (5,5)
+Mercenary Ross attacked opponent Bob at (10,1). Target health went from 20 to 5
+Mercenary Bryan attacked opponent Remy at (6,6). Target health went from 10 to -5
+Mercenary Remy attacked opponent Bryan at (7,6). Target health went from 5 to -10
+Mercenary Bob attacked opponent Ross at (9,0). Target health went from 7 to -8
+Ross has suffered mortal wounds
+Bryan has suffered mortal wounds
+Remy has suffered mortal wounds
+Demon Darren moved to (3,7)
+Demon Damon attacked opponent Bill at (12,5). Target health went from 1 to -21
+Bill has suffered mortal wounds
+Red player spawned mercenary Rylan at (4,3)
+House R_H_Ironhide produced $12 for the Red team. Total = $41
+Hit an enemy merc that was behind me, with the cannon AOE
+Tower B_CA_Bonecrusher hit Ramsey for 5 damage
+Tower B_CA_Mixmaster hit Damon for 5 damage
+Tower B_CR_Devastator hit Reed for 4 damage
+Tower B_M_Astrotrain hit Rudy for 2 damage
+Tower B_M_Astrotrain hit Ramsey for 2 damage
+Tower B_M_Breakdown hit Rylan for 2 damage
+
+-- TURN: 51, REMAINING TURNS: 249, BLUE: $62, RED: $41 --
+Red queued a mercenary in direction N
+Blue queued a mercenary in direction E
+Blue built a crossbow tower at (0,8)
+Mercenary Ramsey moved to (6,6)
+Mercenary Bob moved to (9,1)
+Mercenary Rudy moved to (6,5)
+Mercenary Blaine moved to (10,1)
+Mercenary Rylan moved to (3,3)
+Mercenary Reed attacked opponent Darren at (3,7). Target health went from 20 to 5
+Demon Damon moved to (12,5)
+Demon Darren attacked opponent Reed at (3,6). Target health went from 10 to -12
+Reed has suffered mortal wounds
+Red player spawned mercenary Rishi at (5,2)
+Blue player spawned mercenary Blake at (11,3)
+Hit an enemy merc that was behind me, with the cannon AOE
+Tower B_CA_Long Haul hit Ramsey for 5 damage
+Tower B_M_Astrotrain hit Rudy for 2 damage
+Tower B_M_Astrotrain hit Ramsey for 2 damage
+Tower B_M_Breakdown hit Rylan for 2 damage
+Tower B_M_Breakdown hit Rishi for 2 damage
+Tower B_CR_Swindle hit Ramsey for 4 damage
+Ramsey has suffered mortal wounds
+
+-- TURN: 52, REMAINING TURNS: 248, BLUE: $37, RED: $31 --
+Red queued a mercenary in direction N
+Blue destroyed a tower at (8,4) and was refunded $10
+Mercenary Bob moved to (9,0)
+Mercenary Rudy moved to (6,6)
+Mercenary Blaine moved to (9,1)
+Mercenary Rylan moved to (3,4)
+Mercenary Rishi moved to (5,1)
+Mercenary Blake moved to (12,3)
+Demon Darren moved to (3,6)
+Demon Damon moved to (12,4)
+Red player spawned mercenary Rainer at (5,2)
+Tower B_M_Astrotrain hit Rudy for 2 damage
+Tower B_M_Breakdown hit Rylan for 2 damage
+Tower B_M_Breakdown hit Rishi for 2 damage
+Tower B_M_Breakdown hit Rainer for 2 damage
+
+-- TURN: 53, REMAINING TURNS: 247, BLUE: $47, RED: $21 --
+Red queued a mercenary in direction S
+Blue queued a mercenary in direction N
+Blue built a crossbow tower at (8,4)
+Mercenary Bob moved to (8,0)
+Mercenary Rudy moved to (7,6)
+Mercenary Blaine moved to (9,0)
+Mercenary Rylan moved to (3,5)
+Mercenary Rishi moved to (6,1)
+Mercenary Rainer moved to (5,1)
+Mercenary Blake attacked opponent Damon at (12,4). Target health went from 22 to 7
+Demon Darren attacked opponent Rylan at (3,5). Target health went from 14 to -8
+Demon Damon attacked opponent Blake at (12,3). Target health went from 20 to -2
+Rylan has suffered mortal wounds
+Blake has suffered mortal wounds
+Red player spawned mercenary Ronin at (5,4)
+Blue player spawned mercenary Basil at (10,2)
+House R_H_Optimus produced $12 for the Red team. Total = $23
+House B_H_Megatron produced $12 for the Blue team. Total = $31
+House B_H_Starscream produced $12 for the Blue team. Total = $43
+House B_H_Shockwave produced $12 for the Blue team. Total = $55
+Tower B_M_Astrotrain hit Rudy for 2 damage
+Tower B_M_Breakdown hit Rainer for 2 damage
+Tower B_M_Breakdown hit Ronin for 2 damage
+Rudy has suffered mortal wounds
+
+-- TURN: 54, REMAINING TURNS: 246, BLUE: $55, RED: $23 --
+Red queued a mercenary in direction W
+Blue destroyed a tower at (3,2) and was refunded $20
+Mercenary Bob moved to (7,0)
+Mercenary Blaine moved to (8,0)
+Mercenary Rishi moved to (6,0)
+Mercenary Rainer moved to (6,1)
+Mercenary Ronin moved to (5,5)
+Mercenary Basil moved to (10,1)
+Demon Darren moved to (3,5)
+Demon Damon moved to (12,3)
+Red player spawned mercenary Rafe at (4,3)
+Spawned demon Dale at (7,8)
+Spawned demon Desmond at (8,8)
+House R_H_Wheeljack produced $12 for the Red team. Total = $25
+House B_H_Galvatron produced $12 for the Blue team. Total = $87
+House R_H_Cliffjumper produced $12 for the Red team. Total = $37
+House R_H_Mirage produced $12 for the Red team. Total = $49
+House B_H_Reflector produced $12 for the Blue team. Total = $99
+Tower B_CR_Hook hit Rishi for 4 damage
+Tower B_M_Astrotrain hit Ronin for 2 damage
+Tower B_M_Astrotrain hit Desmond for 2 damage
+
+-- TURN: 55, REMAINING TURNS: 245, BLUE: $99, RED: $49 --
+Red queued a mercenary in direction N
+Blue queued a mercenary in direction E
+Blue built a minigun tower at (3,2)
+Red provoked the demons!
+Only red provoked the demons this turn. Spawning more demons!
+Mercenary Ronin moved to (6,5)
+Mercenary Basil moved to (9,1)
+Mercenary Rafe moved to (3,3)
+Mercenary Bob attacked opponent Rishi at (6,0). Target health went from 12 to -3
+Mercenary Rishi attacked opponent Bob at (7,0). Target health went from 5 to -10
+Bob has suffered mortal wounds
+Rishi has suffered mortal wounds
+Demon Darren moved to (3,4)
+Demon Dale moved to (6,8)
+Demon Desmond moved to (9,8)
+Demon Damon attacked Blue Player Base at (10,3)
+The Blue Player's base has been destroyed. The Red Nation survives!
+
